@@ -1,8 +1,8 @@
 ### Hi, my name is Tom 👋
 
-...and I'm working as a back-end developer for [Dajana Rodriguez 👜](https://dajanarodriguez.com/) and [ARTRA 🥾](https://artra.sk/en/). I'm also working on the front-end a bit, but it must already be designed 😅
+...and I'm working as a back-end developer for [Dajana Rodriguez 👜](https://dajanarodriguez.com/). I'm also working on the front-end a bit, but it must already be designed 😅
 
-- 🔭 I’m currently working from [Batovany Brands Studios](https://www.instagram.com/batovanybrandsstudios/)
+- 🔭 I’m currently working from [Dajana Rodriguez 👜](https://dajanarodriguez.com/)
 - ⚙️ I use daily: `laravel`, `october cms`, `vue`, `php`, `js`, `html`, `scss`
 - 🌱 I'm currently expanding my horizons in javascript
 - 💭 I'm interested in connecting the real world and technology
