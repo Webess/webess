@@ -1,13 +1,13 @@
 ### Hi, my name is Tom 👋
 
-...and I'm working as a back-end developer for [Dajana Rodriguez 👜](https://dajanarodriguez.com/). I'm also working on the front-end a bit, but it must already be designed 😅
+...and I currently work as a back-end developer for [Dajana Rodriguez 👜](https://dajanarodriguez.eu/), [Almalio 🛍️](https://almalio.com/), and [Bloom Robbins 💊](https://bloomrobbins.com/). Though I handle some front-end work occasionally, my primary focus is on back-end development.
 
-- 🔭 I’m currently working from [Dajana Rodriguez 👜](https://dajanarodriguez.com/)
-- ⚙️ I use daily: `laravel`, `october cms`, `vue`, `php`, `js`, `html`, `scss`
-- 🌱 I'm currently expanding my horizons in javascript
-- 💭 I'm interested in connecting the real world and technology
-- 📫 Reach me tomas@liska.dev or [linkedin](https://www.linkedin.com/in/tomliska/)
-- 🟫 Fun fact: I was translating Minecraft to Slovak
+- 🔭 I’m currently working from the [Dajana Rodriguez](https://dajanarodriguez.eu/) office 🏢 and from home 🏠
+- ⚙️ I use daily: `laravel`, `october cms`, `vue`, `php`, `js`, `html`, `scss`, `shopify`
+- 🌱 I’m currently expanding my horizons of Shopify and React.
+- 💭 I’m passionate about connecting the real world with technology.
+- 📫 Reach me at tomas@liska.dev or on [linkedin](https://www.linkedin.com/in/tomliska/)
+- 🟫 Fun fact: I helped translate and proofread Minecraft into Slovak.
 <!--
 **Webess/webess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
