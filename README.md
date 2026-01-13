@@ -1,6 +1,6 @@
 ### Hi, my name is Tom 👋
 
-...and I currently work as a back-end developer for [Dajana Rodriguez 👜](https://dajanarodriguez.eu/), [Almalio 🛍️](https://almalio.com/), and [Bloom Robbins 💊](https://bloomrobbins.com/). Though I handle some front-end work occasionally, my primary focus is on back-end development.
+...and I currently work as a IT developer for [Dajana Rodriguez 👜](https://dajanarodriguez.eu/), [Almalio 🛍️](https://almalio.com/), and [Bloom Robbins 💊](https://bloomrobbins.com/). Though I handle some front-end work occasionally, my primary focus is on back-end development.
 
 - 🔭 I’m currently working from from home 🏠
 - ⚙️ I use daily: `laravel`, `october cms`, `vue`, `php`, `js`, `html`, `scss`, `shopify`, `claude`
