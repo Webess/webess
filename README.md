@@ -2,9 +2,9 @@
 
 ...and I currently work as a back-end developer for [Dajana Rodriguez 👜](https://dajanarodriguez.eu/), [Almalio 🛍️](https://almalio.com/), and [Bloom Robbins 💊](https://bloomrobbins.com/). Though I handle some front-end work occasionally, my primary focus is on back-end development.
 
-- 🔭 I’m currently working from the [Dajana Rodriguez](https://dajanarodriguez.eu/) office 🏢 and from home 🏠
-- ⚙️ I use daily: `laravel`, `october cms`, `vue`, `php`, `js`, `html`, `scss`, `shopify`
-- 🌱 I’m currently expanding my horizons of Shopify and React.
+- 🔭 I’m currently working from from home 🏠
+- ⚙️ I use daily: `laravel`, `october cms`, `vue`, `php`, `js`, `html`, `scss`, `shopify`, `claude`
+- 🌱 I’m currently expanding my horizons of AI.
 - 💭 I’m passionate about connecting the real world with technology.
 - 📫 Reach me at tomas@liska.dev or on [linkedin](https://www.linkedin.com/in/tomliska/)
 - 🟫 Fun fact: I helped translate and proofread Minecraft into Slovak.
